@@ -1,0 +1,27 @@
+	For this project, I have chosen to work on the Inventory App. The primary goal of this application is to help users efficiently track, 
+   manage, and update inventory items within a warehouse environment. By providing clear visibility into item quantities and alerts for 
+   depleted stock, the app supports accuracy, organization, and timely decision-making for inventory management. 
+ 	
+The overarching purpose of the app is to allow users to view and maintain inventory data in real time. To support this goal, the application 
+   would require several major components. These include a secure login screen that allows both new account creation and returning user 
+   authentication, as well as a database with at least two tables: one for storing inventory items and one for user login credentials. 
+   The main inventory screen would display all items in a grid format, showing key details such as item name and quantity. The app would 
+   also include mechanisms to add and remove inventory items, increase or decrease item quantities, and notify users when an item’s quantity 
+   reaches zero. 
+ 	
+At a high level, the app would be designed with usability and efficiency in mind. Users would log in and immediately be presented with a clear, 
+organized inventory grid. Simple controls such as buttons or input fields would allow users to quickly update item counts or add new items 
+without navigating through multiple screens. Notifications would play an important role by alerting users when inventory levels are depleted, 
+helping prevent stock shortages. This design ensures that the app supports users in meeting the goal of accurate and timely inventory tracking. 
+ 	
+When compared to other inventory management apps, this application would share similarities with tools such as Sortly and Stock and Inventory. 
+Like these apps, the Inventory App focuses on item tracking, quantity management, and ease of use. However, this app would be more streamlined 
+and tailored to essential warehouse needs rather than advanced analytics, making it easier to users who require straightforward inventory 
+control without unnecessary complexity. 
+ 	
+The potential users of this application include three main user types. Warehouse employees may use the app daily to update item quantities as 
+stock is received or shipped. Warehouse managers may use it to monitor overall inventory levels and respond to low-stock alerts. Small business 
+owners may use the app periodically to maintain accurate inventory records without investing in complex enterprise systems. Users would engage 
+with the app regularly, often for shorter periods, as part of their daily workflow. Overall, the app fits naturally into operational routines 
+by providing quick access to critical inventory information. 
+
