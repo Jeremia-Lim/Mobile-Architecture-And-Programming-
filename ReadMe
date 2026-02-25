@@ -1,1 +1,31 @@
+Application Summary and Goals 
+The goal of this project was to design and develop a fully functional Android mobile application that demonstrates user-centered design principles and mobile development best practices. The application was
+designed to address the need for a secure and organized inventory management system. Rather than simply storing data, the app provides a structured environment where users can log in, manage inventory items,
+track quantities, and receive notifications for important updates such as low stock alerts. The primary user need addressed by this application was the ability to efficiently monitor and manage inventory 
+within a secure and accessible mobile interface.
 
+Screens, Features, and User-Centered Design 
+To support user needs, the application included multiple essential screens and features. These included a login screen for authentication, an inventory dashboard displaying items in an organized layout, forms for
+adding and editing inventory entries, and SMS notification functionality for low inventory alerts. The user interface was intentionally designed to be simple, intuitive, and predictable. Clear labeling, consistent
+navigation patterns, appropriately sized buttons, and logical screen transitions were implemented to reduce cognitive load. Accessibility considerations were incorporated to ensure input fields and controls were easy
+to interact with on mobile devices. These design choices were successful because they prioritized clarity, minimized user errors, and supported efficient task completion.
+
+Development Approach and Techniques 
+The coding process followed a structured and incremental development strategy. Rather than building all components at once, features were implemented step by step and tested frequently. SQLite was used to
+ensure secure and persistent data storage across sessions. Code organization was prioritized by separating user interface logic, database operations, and application functionality. Permissions such as SMS access were
+handled carefully to ensure secure execution under different conditions. These strategies can be applied in future projects to maintain clean architecture, scalability, and long-term maintainability.
+
+Testing and Debugging Process 
+Testing was conducted continuously throughout development using the Android Emulator and the Android Studio debugger. Breakpoints were set to monitor variable values and ensure database and permission
+handling behaved correctly. Edge cases, such as invalid input or denied permissions, were intentionally tested to ensure the application responded appropriately. This testing process was critical because it
+revealed potential issues early, reduced large-scale debugging later, and ensured the final application functioned reliably. Continuous testing reinforces stability and improves overall product quality.
+
+Innovation and Problem Solving 
+Throughout the development process, innovation was necessary when handling permission management and secure data persistence. Ensuring SMS notifications worked correctly under different permission states
+required troubleshooting and adjustment. Additionally, designing a clean and scalable inventory layout required refining UI components to balance functionality and simplicity. Overcoming these challenges
+strengthened both my technical skills and problem-solving ability.
+
+Demonstration of Knowledge and Skills 
+The component in which I most successfully demonstrated my knowledge and skills was the integration of secure data persistence with SQLite combined with real-time SMS notification functionality. This feature
+required understanding database management, Android permissions, and responsive UI updates. Successfully implementing these elements showcased my ability to build a practical, secure, and user-
+focused mobile application.
